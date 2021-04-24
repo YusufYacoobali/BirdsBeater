@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ Item\ class\ -\ represents\ one\ item\n\ \n\ Each\ item\ has\ a\ name,\ description\ and\ weight.\ Items\ can\ be\ picked,\ dropped,\ given,\ used\ to\ kill\ or\ used\ to\ open.\n\n\ @author\ Yusuf\ Yacoobali\n\ @version\ v1\n
+comment1.params=name\ description\ weight
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Item\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Returns\ the\ name\ of\ the\ item\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\n\ Returns\ the\ description\ of\ the\ item\n
+comment4.params=
+comment4.target=int\ getWeight()
+comment4.text=\n\ Returns\ the\ weight\ of\ the\ item\n
+numComments=5

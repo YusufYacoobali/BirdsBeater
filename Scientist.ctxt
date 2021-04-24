@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scientist
+comment0.text=\n\ Scientist\ class\ -\ respresents\ one\ scientist\n\ \n\ A\ scientist\ is\ a\ character\ that\ essentially\ trades\ with\ the\ player.\ He\ is\ the\ key\ for\ the\ player\ getting\ out.\ \n\ The\ scientist\ does\ not\ move\ as\ of\ yet\ and\ does\ not\ do\ much\ too.\ \n\ I\ did\ want\ to\ do\ a\ lot\ more\ with\ this\ class\ but\ with\ the\ time\ limit\ it\ was\ difficult\n\n\ @author\ Yusuf\ Yacoobali\n\ @version\ v1\n
+comment1.params=
+comment1.target=Scientist()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Scientist\n
+comment2.params=
+comment2.target=void\ interact()
+comment2.text=\n\ Prints\ out\ a\ message\ from\ the\ scientist\ for\ the\ player\n
+comment3.params=
+comment3.target=boolean\ hasFeathers()
+comment3.text=\n\ Checks\ if\ the\ scientist\ has\ feathers\ in\ his\ inventory\n
+numComments=4
